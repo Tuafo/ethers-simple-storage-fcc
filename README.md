@@ -19,8 +19,6 @@ Compile Contract
 yarn run compile
 ```
 
-![Alt text](image.png)
-
 to run after this
 
 ```
